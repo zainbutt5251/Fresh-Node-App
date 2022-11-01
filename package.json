@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "zain butt",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "chalk": "^5.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jquery": "^3.6.1",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.7.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
